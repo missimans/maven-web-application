@@ -34,9 +34,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
                 Landmark Technology, 
-		Toronto, Ontario, Canada
+		Indiana, Indianapolis, USA
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		obimani21@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
