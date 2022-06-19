@@ -33,12 +33,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
+                 Imanyi Technology, 
 		Indiana, Indianapolis, USA
 		+1 437 215 2483,
 		obimani21@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:obimani21@gmail.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
